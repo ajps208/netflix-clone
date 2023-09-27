@@ -1,0 +1,17 @@
+.banner_content{
+    margin-left: 3rem;
+    padding-top: 350px;
+    height: 200px;
+}
+.banner_content>h1{
+    font-size: 3rem;
+    font-weight: 800;
+    
+}
+.banner_content>h2{
+    width: 45rem;
+    font-size: 1rem;
+    line-height: 1.3;
+    padding-top: 1rem;
+    text-align: justify;
+}
